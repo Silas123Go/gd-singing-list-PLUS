@@ -1,22 +1,16 @@
 {
     "id": 94834823,
-    "name": "Zazacheron",
-    "author": "Yoloplex",
-    "creators": ["Yoloplex"],
-    "verifier": "Yoloplex",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 49,
+    "name": "my perc demons",
+    "author": "owormz",
+    "creators": ["owormz"],
+    "verifier": "owormz",
+    "verification": "https://www.youtube.com/watch?v=loCdh7aE5KU&t=1s",
+    "percentToQualify": 45,
     "password": "Not Copyable",
     "records": [
         {
             "user": "MyRougeYoshi",
-            "link": "https://www.youtube.com/watch?v=EMUzQtLuwSk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "SmasherDork",
-            "link": "https://www.youtube.com/watch?v=aCwgYVrXiec",
+            "link": "",
             "percent": 100,
             "hz": 360
         }
