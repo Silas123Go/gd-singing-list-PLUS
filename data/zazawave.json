@@ -1,1 +1,18 @@
-
+{
+    "id": 94834823,
+    "name": "Zaza Wave",
+    "author": "FBITB",
+    "creators": ["FBITB"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://youtu.be/Rg6drgh0oVg",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 56,
+            "hz": 360
+        }
+    ]
+}
