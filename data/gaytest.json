@@ -1,0 +1,90 @@
+{
+    "id": 88438729,
+    "name": "Gay Test",
+    "author": "WoolEndy",
+    "creators": ["WoolEndy"],
+    "verifier": "WoolEndy",
+    "verification": "https://www.youtube.com/watch?v=alafxkFTprU",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 43357575
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "IonBladeGD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WhiteFencePost",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GetMauled",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Veemo10",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NoPlayerCH",
+            "link": "https://youtu.be/iCbH9_32wVo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zolism",
+            "link": "https://youtu.be/3sYHdZI4yQo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tomato",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Olive60",
+            "link": "https://www.youtube.com/watch?v=uuwGsYO_LlA",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
