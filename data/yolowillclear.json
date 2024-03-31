@@ -1,1 +1,24 @@
-
+{
+    "id": 94863706,
+    "name": "Yolo WILL Clear",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive60",
+    "verification": "https://youtu.be/njGusIAPm9w",
+    "percentToQualify": 35,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
