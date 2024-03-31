@@ -1,1 +1,24 @@
-
+{
+    "id": 94838296,
+    "name": "Baby Lemon",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive60",
+    "verification": "https://youtu.be/MRBpMymQMcE",
+    "percentToQualify": 35,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "https://www.youtube.com/watch?v=rpxHFWDl0vU",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
