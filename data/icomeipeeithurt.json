@@ -1,1 +1,24 @@
-
+{
+    "id": 94044905,
+    "name": "I Come I Pee It Hurt",
+    "author": "ThePoisonRay",
+    "creators": ["ThePoisonRay"],
+    "verifier": "Yoloplex",
+    "verification": "https://youtu.be/GihsEDlix7c",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "DehydratedMoron",
+            "link": "https://www.youtube.com/watch?v=NJ1CmGbUGcc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
