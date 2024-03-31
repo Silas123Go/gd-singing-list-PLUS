@@ -1,1 +1,30 @@
-
+{
+    "id": 94906832,
+    "name": "wver",
+    "author": "WhiteFencePost",
+    "creators": ["Ploop8313"],
+    "verifier": "Ploop8313",
+    "verification": "https://youtu.be/_Wbp8OdBmqg",
+    "percentToQualify": 71,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "realityrustic",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "SmasherDork",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
