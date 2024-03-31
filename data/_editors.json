@@ -1,11 +1,21 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Silas123",
+        "link": "https://www.youtube.com/@Silas123"
     },
     {
-        "role": "admin",
+        "role": "FBITB",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+     {
+        "role": "MyRougeYoshi",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+     {
+        "role": "Yoloplex",
         "name": "List Admin",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
@@ -20,8 +30,8 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "dev",
+        "role": "Silas123",
         "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Silas123"
     }
 ]
