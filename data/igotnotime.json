@@ -1,0 +1,84 @@
+{
+    "id": 94807245,
+    "name": "I Got No Time",
+    "author": "Fredo3",
+    "creators": ["Fredo3"],
+    "verifier": "Fredo3",
+    "verification": "https://www.youtube.com/watch?v=A0ebfvYaZ68",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "IonBladeGD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tomato",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zolism",
+            "link": "https://youtu.be/3sYHdZI4yQo ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Veemo10",
+            "link": "https://youtu.be/3bUWBWRw3Yo?si=EvFlx2WdpvSLF_an",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Olive60",
+            "link": "https://www.youtube.com/watch?v=n6QoluXcVKM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "NotBelugaFan",
+            "link": "https://www.youtube.com/watch?v=ia8U8Gk-MsI&ab_channel=Cedubo",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 241
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
