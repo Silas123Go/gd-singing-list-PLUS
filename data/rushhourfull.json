@@ -1,0 +1,36 @@
+{
+    "id": 92688013,
+    "name": "Rush Hour Full",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive60",
+    "verification": "https://youtu.be/UA0n-k7tZFM",
+    "percentToQualify": 62,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+      {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
