@@ -1,0 +1,30 @@
+{
+    "id": 95060555,
+    "name": "Cucurbita Moschata",
+    "author": "Tomato",
+    "creators": ["Tomato"],
+    "verifier": "Tomato",
+    "verification": "https://youtu.be/WBkOwhY1410",
+    "percentToQualify": 92,
+    "password": "No Password",
+    "records": [
+       {
+            "user": "IonBladeGD",
+            "link": "https://youtu.be/vgJr_M7Uqjg",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "Ploop8313",
+            "link": "https://youtu.be/b38K2KvGWGQ",
+            "percent": 100,
+            "hz": 100
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
