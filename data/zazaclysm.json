@@ -1,1 +1,30 @@
-
+{
+    "id": 94743238,
+    "name": "Zazaclysm",
+    "author": "Fredo3",
+    "creators": ["Refusion"],
+    "verifier": "Fredo3",
+    "verification": "https://youtu.be/Mqd6UabJOE4",
+    "percentToQualify": 57,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
