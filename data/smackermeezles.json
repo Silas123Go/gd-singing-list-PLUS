@@ -1,0 +1,24 @@
+{
+    "id": 80779700,
+    "name": "smackermeezlesssssss",
+    "author": "Silas123",
+    "creators": ["Silas123"],
+    "verifier": "Silas123",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
