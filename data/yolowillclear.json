@@ -19,6 +19,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "https://drive.google.com/file/d/1r5K5h9trJBqmhWZ4SjGGYFdOBsn5Q4n1/view",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
