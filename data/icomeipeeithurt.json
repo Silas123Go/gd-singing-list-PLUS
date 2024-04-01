@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=NJ1CmGbUGcc",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "https://drive.google.com/file/d/19UdauPnW37euw2cLvw4lK78xjyfDivv1/view",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
