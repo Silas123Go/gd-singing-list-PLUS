@@ -19,6 +19,24 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+            {
+            "user": "Dropp",
+            "link": "https://drive.google.com/file/d/1xAuhkZHyV4ZejtwUHNTVJ_bdxc-X-nhK/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "DehydratedMoron",
+            "link": "https://youtu.be/XbgcHTjy4Jw?si=7aT40evWcs5L22Qn",
+            "percent": 100,
+            "hz": 360
+        },
+                    {
+            "user": "Ploop8313",
+            "link": "https://youtu.be/iKhzF1PYl_g",
+            "percent": 100,
+            "hz": 200
         }
     ]
 }
