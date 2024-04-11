@@ -8,5 +8,11 @@
     "percentToQualify": 45,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "DehydratedMoron",
+            "link": "https://youtu.be/XbgcHTjy4Jw?si=Dha-X1KJq318vgz5&t=103",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
