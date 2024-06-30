@@ -1,6 +1,6 @@
 {
     "id": 94834823,
-    "name": "Zazacheron",
+    "name": "this level is really fun by the way",
     "author": "Yoloplex",
     "creators": ["Yoloplex"],
     "verifier": "Yoloplex",
@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=pkLN1B69Plc",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 361
+        },
     ]
 }
